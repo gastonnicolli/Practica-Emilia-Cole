@@ -1,0 +1,33 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+h1{
+    font-size: 40px;
+    font-weight: bold;
+}
+h3{
+    color: rgb(69, 141, 69);
+}
+img{
+    height: 15px;
+}
+iframe{
+    width: 100%;
+}
+.menu{
+    margin-right: -7px;
+    background-color:rgba(255, 255, 255, 0.8);
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 15px;
+}
+
+.menu_redes{
+    font-size: 20px;
+    color: #444;
+    text-align: right;
+    background-color: transparent;
+}

@@ -1,0 +1,39 @@
+body {
+    background-image: url(../img/emilia-home.jpg);
+    background-size: 900px 100%;
+    background-repeat: no-repeat;
+    background-position:300px 0px;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+img{
+    height: 15px;
+}
+.TitPie{
+    color: rgb(31, 30, 30);
+    font-size: 45px;
+    margin-left: -5px;
+    background-color:rgba(255, 255, 255, 0.5);
+}
+.menu li,
+.menu li a,
+.menu a,
+.links a,
+a {
+    font-family: 'Open Sans', sans-serif;
+    color: #888;
+    text-decoration: none;
+    list-style:none;
+}
+.name {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 33px;
+    text-transform: uppercase;
+    color: #444;
+    letter-spacing: 5px;
+    margin-left: 15px;
+    line-height: 30px;
+    padding-right: 0px;
+}
